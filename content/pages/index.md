@@ -825,7 +825,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Blake Hartley
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Blake Hartley
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
