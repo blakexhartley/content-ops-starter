@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blake Hartley
 slug: /
 sections:
   - type: GenericSection
