@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Ms. Ferguson
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Kai Baxter
